@@ -3,7 +3,6 @@ import uvicorn
 from pydantic import BaseModel
 import joblib
 import pandas as pd
-import requests
 
 
 app = FastAPI()
